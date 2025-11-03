@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Profile image with transparent background -->
+  <path d="M250 100 C180 100, 150 170, 150 250 C150 330, 180 400, 250 400 C320 400, 350 330, 350 250 C350 170, 320 100, 250 100 Z" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+  <!-- Suit -->
+  <path d="M200 300 L200 450 L300 450 L300 300 Z" fill="#1a237e"/>
+  <!-- Shirt -->
+  <path d="M225 300 L225 400 L275 400 L275 300 Z" fill="#FFFFFF"/>
+  <!-- Tie -->
+  <path d="M240 300 L250 350 L260 300 L250 400 Z" fill="#c62828"/>
+  <!-- Glasses -->
+  <circle cx="220" cy="200" r="25" fill="none" stroke="#333333" stroke-width="3"/>
+  <circle cx="280" cy="200" r="25" fill="none" stroke="#333333" stroke-width="3"/>
+  <line x1="245" y1="200" x2="255" y2="200" stroke="#333333" stroke-width="3"/>
+</svg>
