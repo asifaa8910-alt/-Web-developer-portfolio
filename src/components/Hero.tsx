@@ -45,7 +45,7 @@ export default function Hero() {
                 className="p-3 border border-slate-700 rounded-lg hover:border-cyan-500 hover:text-cyan-400 transition-all duration-300 hover:scale-110">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="asifaa8910@gmail.com.com"
+              <a href="asifaa8910@gmail.com"
                 className="p-3 border border-slate-700 rounded-lg hover:border-cyan-500 hover:text-cyan-400 transition-all duration-300 hover:scale-110">
                 <Mail className="w-5 h-5" />
               </a>
