@@ -1,4 +1,5 @@
 import { ChevronDown, Github, Linkedin, Mail } from 'lucide-react';
+import pImg from '../assets/p.png';
 
 export default function Hero() {
   const scrollToSection = (id: string) => {
@@ -56,7 +57,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-full blur-2xl opacity-30 animate-pulse"></div>
               <img
-                src="/src/assets/p.png"
+                src={pImg}
                 alt="Professional headshot"
                 className="relative w-72 h-72 md:w-96 md:h-96 rounded-full object-cover border-4 border-slate-700 shadow-2xl"
               />
